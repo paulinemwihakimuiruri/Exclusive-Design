@@ -32,7 +32,7 @@ const Navbar = () => {
             <Link href="#">Home</Link>
             <Link href="#">Contact</Link>
             <Link href="#">About</Link>
-            <Link href="#">Sign Up</Link>
+            <Link href="/signUp">Sign Up</Link>
           </div>
           <div className="flex items-center gap-6">
             <div className="flex items-center bg-gray-200 gap-1 px-4 rounded-sm">

@@ -55,7 +55,7 @@ const SALES = [
 
 const FlashSale = () => {
   return (
-    <section className="max-w-7xl  mx-auto w-full flex flex-col items-center gap-6 py-28">
+    <section className="max-w-7xl  mx-auto w-full flex flex-col items-center gap-6 py-28 border-b border-gray-300">
       <div className="flex flex-col gap-4">
         <Title text="Today's" />
         <div className="flex justify-between w-full">
