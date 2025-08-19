@@ -24,7 +24,7 @@ const Featured = () => {
         <div className="flex flex-col">
           <div className="flex bg-[#0D0D0D] rounded-sm relative">
             <div className="text-white absolute bottom-4 left-4">
-              <h1>Women's Collections</h1>
+              <h1>Women&apos;s Collections</h1>
               <p>Featured woman collection that</p>
               <p>give you another vibe.</p>
               <Link href="#">Shop Now</Link>

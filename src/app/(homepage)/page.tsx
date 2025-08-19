@@ -1,12 +1,11 @@
-import Image from "next/image";
-import Hero from "./_components/Hero";
-import FlashSale from "./_components/FlashSale";
 import Categories from "./_components/Categories";
-import Products from "./_components/Products";
-import Experience from "./_components/MusicPic";
+import Customer from "./_components/CustomerService";
 import Explore from "./_components/Explore";
 import Featured from "./_components/Featured";
-import Customer from "./_components/CustomerService";
+import FlashSale from "./_components/FlashSale";
+import Hero from "./_components/Hero";
+import Experience from "./_components/MusicPic";
+import Products from "./_components/Products";
 
 
 export default function Home() {
